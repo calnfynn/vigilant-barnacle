@@ -1,7 +1,7 @@
 on:
   rss:
     url: https://archiveofourown.org/tags/414093/feed.atom
-jobs:
+jobs
   webhook:
     name: Make a HTTP Request
     runs-on: ubuntu-latest
