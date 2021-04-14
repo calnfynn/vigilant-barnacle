@@ -6,7 +6,7 @@ jobs:
     name: Make a HTTP Request
     runs-on: ubuntu-latest
     steps:
-      - name: Make a HTTP Request
+      - name: Tealchen
         uses: actionsflow/axios@v1
         with:
           url: https://discord.com/api/webhooks/831600971851366411/ZwJRFblXtm4ztpiGk2TUmk36TS7w4NySU4RnPhGXfel6sfEpa45PsBvOGKhBMiiBRLz7
